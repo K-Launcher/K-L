@@ -1,2 +1,2 @@
-# K-Launcher-A-KSP-Launcher-
+# K-Launcher (A KSP Launcher)
 Another KSP Launcher 
