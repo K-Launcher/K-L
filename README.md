@@ -1,2 +1,3 @@
 # K-Launcher (A KSP Launcher)
+## THIS IS THE LEGACY VERSION. CHECK [UNNATURAL'S](URL) ONE INSTEAD.
 Another KSP Launcher 
